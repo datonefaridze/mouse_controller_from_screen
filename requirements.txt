@@ -1,0 +1,9 @@
+numpy==1.19.5
+Pillow==8.1.0
+python3-xlib
+PyAutoGUI==0.9.52
+tensorflow==2.4.0
+opencv-contrib-python==4.5.1.48
+
+
+
